@@ -54,7 +54,7 @@ hr {
     <p id="demo" style="font-size:30px"></p>
   </div>
   <div class="bottomleft">
-    <p>Some text</p>
+    <p>Für WBS</p>
   </div>
 </div>
 
